@@ -1,0 +1,11 @@
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\bin\Debug\IkılıkSayiSistemi.exe.config
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\bin\Debug\IkılıkSayiSistemi.exe
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\bin\Debug\IkılıkSayiSistemi.pdb
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.csproj.AssemblyReference.cache
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.Form1.resources
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.Properties.Resources.resources
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.csproj.GenerateResource.cache
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.exe
+C:\Users\order\OneDrive\Masaüstü\C#_Projelerim\IkılıkSayiSistemi\IkılıkSayiSistemi\obj\Debug\IkılıkSayiSistemi.pdb
