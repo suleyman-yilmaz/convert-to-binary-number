@@ -30,12 +30,11 @@ namespace IkılıkSayiSistemi
                     number = number / 2;
                 }
 
-                binaryDigits.Reverse(); // Digits'i ters çevirin
+                binaryDigits.Reverse();
 
-                string binaryString = string.Join("", binaryDigits); // Digits'i birleştirin
+                string binaryString = string.Join("", binaryDigits);
 
-                MessageBox.Show("Girilen Sayının İkilik Sayı Sistemindeki Karşılığı : " + binaryString);
-                
+                textBox2.Text= binaryString;
             }
             else
             {
